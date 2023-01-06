@@ -1,0 +1,14 @@
+[
+  {
+    "package": "curl",
+    "oncran": true
+  },
+  {
+    "package": "pdftools",
+    "oncran": true
+  },
+  {
+    "package": "stringdist",
+    "oncran": true
+  }
+]
