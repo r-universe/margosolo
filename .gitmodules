@@ -3,11 +3,6 @@
 	url = https://github.com/margosolo/universe
 	shallow = true
 	branch = HEAD
-[submodule "curl"]
-	path = curl
-	url = https://github.com/jeroen/curl
-	shallow = true
-	registered = true
 [submodule "pdftools"]
 	path = pdftools
 	url = https://github.com/ropensci/pdftools

@@ -1,9 +1,5 @@
 [
   {
-    "package": "curl",
-    "oncran": true
-  },
-  {
     "package": "pdftools",
     "oncran": true
   },
